@@ -9,5 +9,5 @@ https://learn.microsoft.com/en-us/powershell/azure/install-azure-powershell?view
 List all Az version
 "Get-InstalledModule -Name Az -AllVersions | Select-Object -Property Name, Version"
 
-Install Letest Az Version
+Install Latest Az Version
 "Install-Module -Name Az -AllowClobber -Force"
