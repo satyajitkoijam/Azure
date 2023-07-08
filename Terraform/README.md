@@ -1,1 +1,1 @@
-Azure Linux Script
+Terraform code to create Azure Resources
